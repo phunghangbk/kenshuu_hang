@@ -1,0 +1,25 @@
+<?php
+
+return [
+    'login' => 'ログイン',
+    'name' => '名前',
+    'email' => 'メールアドレス',
+    'password' => 'パスワード',
+    'password_confirm' => 'パスワード確認',
+    'what_your_mind' => 'いまどうしてる？',
+    'logout' => 'ログアウト',
+    'documentation' => 'ドキュメンテーション',
+    'remember_me' => '保存する',
+    'forgot_password' => 'パスワードを忘れた場合はこちら',
+    'register' => '登録',
+    'tweet' => 'ツイート',
+    'load_more' => 'もっと見る',
+    'now' => '今',
+    'hours' => '時間前',
+    'minutes' => '分前',
+    'setting' => '設定',
+    'enter_password' => 'パスワードを入力してください。',
+    'enter_email' => 'メールアドレスを入力してください。',
+    'reset_password' => 'パスワードリセット',
+    'send_password_reset_link' => 'リセットリンク送り',
+];
